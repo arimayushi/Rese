@@ -26,4 +26,7 @@ ER図
 環境構築
 
 他に記述することがあれば記述する
+<<<<<<< HEAD
 github.com:arimayushi/Rese.git
+=======
+>>>>>>> bb590e3d41636e019146d509b4a0db56b998348d
